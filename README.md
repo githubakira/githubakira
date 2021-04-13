@@ -8,8 +8,8 @@
 <a href="https://www.kaggle.com/akira00">
   <img align="left" alt="Akira's Kaggle" height="22px" src="https://github.com/githubakira/githubakira/raw/main/assets/Kaggle_logo.png" />
 </a>
-<a href="https://mathbykids.page.link/85Up">
-  <img align="left" alt="Akira's Kaggle" height="22px" src="https://github.com/githubakira/githubakira/raw/main/assets/502px-Logo_of_YouTube_(2015-2017).svg.png" />
+<a href="https://mathbykids.page.link/wtQ4">
+  <img align="left" alt="Akira's Youtube" height="22px" src="https://github.com/githubakira/githubakira/raw/main/assets/502px-Logo_of_YouTube_(2015-2017).svg.png" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=githubakira.githubakira)
